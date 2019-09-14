@@ -7,6 +7,7 @@ public class test {
 
 		String tt;
 		String ttt;
+		int i;
 	}
 
 }
